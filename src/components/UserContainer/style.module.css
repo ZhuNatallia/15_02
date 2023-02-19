@@ -1,0 +1,9 @@
+s.cardContainer{
+    width: 900px;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    border-radius: 15px;
+    background-color: #44acd4;
+}
